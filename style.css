@@ -22,6 +22,10 @@ body {
     background-size: cover;
     position: relative;
 }
+h6{
+    color: white;
+    font-family: var(--font);
+}
 
 #profilePicture, #profilePicture img {
     position: relative;
